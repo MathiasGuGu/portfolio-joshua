@@ -25,5 +25,5 @@
 		</SplideSlide>
 	</Splide>
 
-	<Button href="/">VIEW PROJECTS</Button>
+	<Button link="/projects">VIEW PROJECTS</Button>
 </section>

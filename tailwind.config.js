@@ -5,8 +5,10 @@ export default {
 		extend: {
 			colors: {
 				background: '#000000',
-				text: '#FFFFFF',
-				
+				text: '#FFFFFF'
+			},
+			fontFamily: {
+				title: ['Bebas Neue', 'sans-serif']
 			}
 		}
 	},

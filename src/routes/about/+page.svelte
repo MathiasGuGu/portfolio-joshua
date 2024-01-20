@@ -4,7 +4,7 @@
 
 <section class="w-full h-auto flex flex-col items-center justify-start text-text z-50 pt-48 gap-24">
 	<div class="border-b-4 px-6">
-		<h2 class="uppercase text-4xl font-bold text-center">Who is Joshua Saitong?</h2>
+		<h2 class="uppercase text-7xl font-bold text-center font-title">Who is Joshua Saitong?</h2>
 	</div>
 	<div class="w-full h-auto flex flex-col-reverse md:flex-row gap-24 justify-center">
 		<div class="px-4 md:px-0 md:w-1/3 flex flex-col max-w-xl gap-4">

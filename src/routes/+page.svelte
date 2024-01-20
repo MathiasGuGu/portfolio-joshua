@@ -13,7 +13,7 @@
 
 <section id="top" class="flex items-center justify-center h-[850px] w-full overflow-hidden">
 	<div class="w-full h-full relative flex items-center justify-center">
-		<h1 class="z-40 text-7xl font-black text-center">JOSHUA SAITONG</h1>
+		<h1 class="z-40 text-9xl text-center font-title">JOSHUA SAITONG</h1>
 
 		<div
 			class="absolute bottom-0 left-0 bg-gradient-to-t from-background to-transparent w-full h-36 z-30"

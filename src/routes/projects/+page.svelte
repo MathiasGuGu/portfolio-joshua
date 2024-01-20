@@ -11,7 +11,7 @@
 
 <section class="w-full h-full flex flex-col gap-12 pt-48 text-text">
 	<div class="w-full h-auto flex flex-col items-center justify-center gap-3">
-		<h1 class="text-4xl font-bold uppercase">PROJECTS OF JOSHUA SAITONG</h1>
+		<h1 class="text-7xl uppercase font-title">PROJECTS OF JOSHUA SAITONG</h1>
 		<p class="text-2xl">Click on a poster to see project</p>
 	</div>
 	<div class="w-full h-auto flex items-center justify-center">
